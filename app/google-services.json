@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "287132892254",
+    "firebase_url": "https://rugged-cooler-303905-default-rtdb.firebaseio.com",
+    "project_id": "rugged-cooler-303905",
+    "storage_bucket": "rugged-cooler-303905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287132892254:android:adcb47e6ebb143270f08cf",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287132892254-i2m05t16057btjtqsbaeu65qvbkmffi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlesignin",
+            "certificate_hash": "e5ed13e3241e02c6375ccbefb686a8de34433962"
+          }
+        },
+        {
+          "client_id": "287132892254-2o580290j278u4iart4dpqss7megdgu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJ9VSsocG4Qc4VJjQUf09rrOQ7nFJkHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287132892254-2o580290j278u4iart4dpqss7megdgu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287132892254:android:a8e5a46323c387b50f08cf",
+        "android_client_info": {
+          "package_name": "com.example.messanginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287132892254-7eseus714uep7gbptns1qhcvjlf58as1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messanginfirebase",
+            "certificate_hash": "e5ed13e3241e02c6375ccbefb686a8de34433962"
+          }
+        },
+        {
+          "client_id": "287132892254-2o580290j278u4iart4dpqss7megdgu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJ9VSsocG4Qc4VJjQUf09rrOQ7nFJkHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287132892254-2o580290j278u4iart4dpqss7megdgu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
